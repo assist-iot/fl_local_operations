@@ -1,0 +1,11 @@
+{
+    "data_loader": "application.tests.new_loader",
+    "client_library": {
+        "keras": {
+            "id": "application.tests.new_keras_client"
+        },
+        "pytorch": {
+            "id": ""
+        }
+    }
+}

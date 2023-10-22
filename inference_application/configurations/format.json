@@ -1,0 +1,11 @@
+{
+    "data_types": {
+        "numerical": {
+            "size": [
+                5,
+                4
+            ],
+            "normalized": false
+        }
+    }
+}
