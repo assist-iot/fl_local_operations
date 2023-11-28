@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  fllocaloperations:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2023-11-28T11:26:10.706206286+01:00"
+    description: A Helm chart defining the services and configuration of FL Local
+      Operations
+    digest: 5951b2436056d02bb096765bbca09dbe79230a237ebda94346f9fe1bbe5adcfd
+    name: fllocaloperations
+    type: application
+    urls:
+    - fllocaloperations-1.1.0.tgz
+    version: 1.1.0
+generated: "2023-11-28T11:26:10.705727662+01:00"
